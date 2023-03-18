@@ -8,151 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8287f5db9cf5e6c",
+            "id": "2dfc3166e8ef7051",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chords and Harmonies/Intervals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "1e0f5455a5bb795d",
+            "id": "253efc1129fd2ed3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scales/Scales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "314229f7a58c7cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scales/Scales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcf1c6bd3fe0cdef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edb54949735be450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea11634f54b5e1fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chord Progressions/Chord Progressions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "058a375ad531c767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chords and Harmonies/Chords and Harmonies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb690399a7d59b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guitar-specific Things/Guitar-specific Things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ff5d81d2b044046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guitar-specific Things/Guitar Tones/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb314e9fdb699e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guitar-specific Things/Guitar-specific Things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6333a5271bf3caff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dad42628cf54e45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scales/Scales.md",
+                "file": "contents/Scales/Scales and Keys.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scales/Scales.md",
+                "file": "contents/Scales/Scales and Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scales/Scales.md",
+                "file": "contents/Scales/Scales and Keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scales/Scales.md"
+                "file": "contents/Scales/Scales and Keys.md"
               }
             }
           }
@@ -281,43 +157,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9dad42628cf54e45",
+  "active": "253efc1129fd2ed3",
   "lastOpenFiles": [
-    "Scales/Major Scales.md",
+    "contents",
+    "contents/Scales/Scales and Keys.md",
+    "contents/Music Language and Notation/Musical Alphabet.md",
     "index.md",
-    "Music Genres/Music Genres.md",
-    "Melodies/Melodies.md",
-    "Guitar-specific Things/Guitar-specific Things.md",
-    "Melodies",
-    "Scales/Scales.md",
-    "Guitar-specific Things/Guitar Tones/Guitar Tone.md",
-    "Guitar-specific Things/Guitar Tones/Basics.md",
-    "Guitar-specific Things/Guitar Hardware/Guitar Hardware.md",
-    "Chords and Harmonies/Chords and Harmonies.md",
-    "Chords and Harmonies/Triads.md",
-    "Chords and Harmonies/Chords.md",
-    "Chords and Harmonies/Intervals.md",
-    "Chord Progressions/Chord Progressions.md",
-    "Chord Progressions/Spannungsbogen.md",
-    "Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.md",
-    "Music Language and Notation/Music Language and Notation.md",
-    "Scales/Scales and the Circle of Fifths.md",
-    "Miscellaneous Resources.md",
-    "html/Keywords.html",
-    "Keywords.md",
-    "html/Scales/Scales.html",
-    "html/Scales/Major Scales.html",
-    "html/Scales/Minor Scales.html",
-    "Scales/Minor Scales.md",
-    "html/Scales/Pentatonic Scales.html",
-    "Scales/Pentatonic Scales.md",
-    "html/Scales/Scales and the Circle of Fifths.html",
-    "html/Scales",
-    "html/Guitar-specific/CAGED.html",
-    "Guitar-specific Things/CAGED.md",
-    "html/Guitar-specific/Soloing and Improvising.html",
-    "Melodies/Soloing and Improvising.md",
-    "Guitar-specific Things/Guitar Hardware/Pickups.md",
-    "Scales/Scales on the Guitar.md"
+    "contents/Guitar-specific Things/Guitar-specific Things.md",
+    "contents/Guitar-specific Things/Guitar Tones/Basics.md",
+    "contents/Chords and Harmonies/Chords and Harmonies.md",
+    "contents/Chord Progressions/Chord Progressions.md",
+    "contents/Scales/Scales and the Circle of Fifths.md",
+    "contents/Music Language and Notation/Music Language and Notation.md",
+    "contents/Scales/Chromatic Scale.md",
+    "assets/600px-Circle_of_fifths_deluxe_4.svg.png",
+    "assets/600px-Circle_of_fifths_deluxe_4.svg.png.crdownload",
+    "assets",
+    "New folder",
+    "contents/Keywords.md",
+    "contents/Scales/Major Scales.md",
+    "contents/Scales/Minor Scales.md",
+    "contents/Scales/Pentatonic Scales.md",
+    "html/Scales/Scales on the Guitar.html",
+    "contents/Scales/Scales on the Guitar.md",
+    "contents/Chord Progressions/Spannungsbogen.md",
+    "html/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.html",
+    "html/Chord Progressions/Interesting Chord Progressions",
+    "contents/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.md",
+    "html/Chord Progressions/Chord Progressions.html",
+    "html/Music Genres/Music Genres.html",
+    "html/Music Genres",
+    "contents/Music Genres/Music Genres.md",
+    "contents/Chords and Harmonies/Stufenakkorde.md",
+    "contents/Chords and Harmonies/Terzverwandtschaft + Ersatzakkorde.md",
+    "contents/Chords and Harmonies/Intervals.md",
+    "html/Chords and Harmonies/Chords and Harmonies.html",
+    "contents/Chords and Harmonies/Chords.md",
+    "contents/Miscellaneous Resources.md",
+    "contents/Guitar-specific Things/CAGED.md",
+    "contents/Guitar-specific Things/Guitar Tones/Guitar Tone.md"
   ]
 }
