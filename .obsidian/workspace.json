@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents/Song Analyses/Bohemian Rhapsody.md",
+                "file": "contents/Chords and Harmonies/Intervals.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243.5
   },
   "right": {
     "id": "cde74b17fd1ee9da",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents/Song Analyses/Bohemian Rhapsody.md",
+                "file": "contents/Chords and Harmonies/Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contents/Song Analyses/Bohemian Rhapsody.md",
+                "file": "contents/Chords and Harmonies/Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,16 +146,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contents/Song Analyses/Bohemian Rhapsody.md"
+                "file": "contents/Chords and Harmonies/Intervals.md"
               }
             }
+          },
+          {
+            "id": "643ae9e5770ac38c",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "00f1065e7055fec1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,21 +182,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "reference-map:Reference Map": false
     }
   },
   "active": "ed030e18dad4f3de",
   "lastOpenFiles": [
+    "index.md",
+    "contents/Chords and Harmonies/Intervals.md",
+    "contents/Chords and Harmonies/The chords of a key.md",
+    "contents/Chords and Harmonies/Terzverwandtschaft + Ersatzakkorde.md",
+    "contents/Chords and Harmonies/Chords.md",
+    "contents/Chords and Harmonies/Chords and Harmonies.md",
     "contents/Scales/Scales and Keys.md",
-    "contents/Scales/Major Scales.md",
     "contents/Song Analyses/Bohemian Rhapsody.md",
+    "contents/Scales/Major Scales.md",
     "contents/Song Analyses",
     "contents",
     "contents/Music Language and Notation/Musical Alphabet.md",
-    "index.md",
     "contents/Guitar-specific Things/Guitar-specific Things.md",
     "contents/Guitar-specific Things/Guitar Tones/Basics.md",
-    "contents/Chords and Harmonies/Chords and Harmonies.md",
     "contents/Chord Progressions/Chord Progressions.md",
     "contents/Scales/Scales and the Circle of Fifths.md",
     "contents/Music Language and Notation/Music Language and Notation.md",
@@ -201,10 +222,6 @@
     "html/Chord Progressions/Chord Progressions.html",
     "html/Music Genres/Music Genres.html",
     "contents/Music Genres/Music Genres.md",
-    "contents/Chords and Harmonies/Stufenakkorde.md",
-    "contents/Chords and Harmonies/Terzverwandtschaft + Ersatzakkorde.md",
-    "contents/Chords and Harmonies/Intervals.md",
-    "contents/Chords and Harmonies/Chords.md",
     "contents/Miscellaneous Resources.md",
     "contents/Guitar-specific Things/CAGED.md",
     "contents/Guitar-specific Things/Guitar Tones/Guitar Tone.md"

@@ -16,7 +16,10 @@
 
 In short, both a scale and a key tell us a set of notes that 'make sense together', or are usually used in the same piece of (Western) music. Scales usually refer to an ordered version of that set. 
 
-> Tonality (from "Tonic") or key: Music which uses the notes of a particular scale is said to be "in the key of" that scale or in the tonality of that scale. (Berlin, Sclater, Sinclair, 2006)
+> Tonality (from "Tonic") or key: Music which uses the notes of a particular scale is said to be "in the key of" that scale or in the tonality of that scale. (Berlin, Sclater, Sinclair, 2006) 
+
+>Scale: A **particular arrangement** of pitches that has some practical use in music. THe relationship of the pitches to one another gives a scale its characteristic quality.
+>*- Fretboard Mastery (Troy Stetina)*
 
 
 ## Scales as a sequence of steps
