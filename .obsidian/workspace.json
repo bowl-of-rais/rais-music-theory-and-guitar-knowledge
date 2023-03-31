@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed030e18dad4f3de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contents/Song Analyses/Bohemian Rhapsody.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents/Scales/Scales and Keys.md",
+                "file": "contents/Song Analyses/Bohemian Rhapsody.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contents/Scales/Scales and Keys.md",
+                "file": "contents/Song Analyses/Bohemian Rhapsody.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contents/Scales/Scales and Keys.md"
+                "file": "contents/Song Analyses/Bohemian Rhapsody.md"
               }
             }
           }
@@ -157,10 +169,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "253efc1129fd2ed3",
+  "active": "ed030e18dad4f3de",
   "lastOpenFiles": [
-    "contents",
     "contents/Scales/Scales and Keys.md",
+    "contents/Scales/Major Scales.md",
+    "contents/Song Analyses/Bohemian Rhapsody.md",
+    "contents/Song Analyses",
+    "contents",
     "contents/Music Language and Notation/Musical Alphabet.md",
     "index.md",
     "contents/Guitar-specific Things/Guitar-specific Things.md",
@@ -175,7 +190,6 @@
     "assets",
     "New folder",
     "contents/Keywords.md",
-    "contents/Scales/Major Scales.md",
     "contents/Scales/Minor Scales.md",
     "contents/Scales/Pentatonic Scales.md",
     "html/Scales/Scales on the Guitar.html",
@@ -186,12 +200,10 @@
     "contents/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.md",
     "html/Chord Progressions/Chord Progressions.html",
     "html/Music Genres/Music Genres.html",
-    "html/Music Genres",
     "contents/Music Genres/Music Genres.md",
     "contents/Chords and Harmonies/Stufenakkorde.md",
     "contents/Chords and Harmonies/Terzverwandtschaft + Ersatzakkorde.md",
     "contents/Chords and Harmonies/Intervals.md",
-    "html/Chords and Harmonies/Chords and Harmonies.html",
     "contents/Chords and Harmonies/Chords.md",
     "contents/Miscellaneous Resources.md",
     "contents/Guitar-specific Things/CAGED.md",
