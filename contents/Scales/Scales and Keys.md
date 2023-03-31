@@ -1,14 +1,14 @@
-[[Major Scales]]
+[Major Scales](Major%20Scales.md)
 
-[[Minor Scales]]
+[Minor Scales](Minor%20Scales.md)
 
-[[Chromatic Scale]]
+[Chromatic Scale](Chromatic%20Scale.md)
 
-[[Pentatonic Scales]]
+[Pentatonic Scales](Pentatonic%20Scales.md)
 
-[[Scales and the Circle of Fifths]]
+[Scales and the Circle of Fifths](Scales%20and%20the%20Circle%20of%20Fifths.md)
 
-[[Scales on the Guitar]]
+[Scales on the Guitar](Scales%20on%20the%20Guitar.md)
 
 ----
 
@@ -48,7 +48,7 @@ tabstave notation=true tablature=false
 notes E-F#-G-A/4 | B/4 C-D-E/5
 ```
 
-There are however different variants of minor scales, see [[Minor Scales]].
+There are however different variants of minor scales, see [Minor Scales](Minor%20Scales.md).
 
 
 ## Relationship between Major and Minor Scales
@@ -62,7 +62,7 @@ As a rule, the **relative minor** of a major scale starts on its 6th step, while
 
 ## Scales and the Circle of 5ths
 
-Now, the scale above uses all basic seven notes from the [[Musical Alphabet]], with a small change: instead of F, we have F#. In fact, this idea is true for all major and minor scales: they consist of the seven basic notes, the only difference is how those are altered with accidentals.
+Now, the scale above uses all basic seven notes from the [Musical Alphabet](Musical%20Alphabet.md), with a small change: instead of F, we have F#. In fact, this idea is true for all major and minor scales: they consist of the seven basic notes, the only difference is how those are altered with accidentals.
 
 This is another way to think of scales: instead of a sequence of steps, they can be defined by specific notes having accidentals. Those two approaches produce the same result.
 
@@ -76,7 +76,7 @@ To figure out what accidentals belong to a specific scale, we can use the (infam
 	- each step counterclockwise adds a b
 	- the two directions run into eachother at the bottom
 - we now can try to find the matching root notes for the major and minor scales
-- as it turns out, neighboring root notes are always the same distance apart - specificially, the [interval]([[Intervals]]) of a perfect 5th
+- as it turns out, neighboring root notes are always the same distance apart - specificially, the [interval]([Intervals](Intervals.md)) of a perfect 5th
 - this is why this is called the circle of 5ths!
 
 ![](600px-Circle_of_fifths_deluxe_4.svg.png)

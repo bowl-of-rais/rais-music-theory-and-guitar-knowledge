@@ -3,7 +3,7 @@
 ## Guitar Settings
 
 #### Pickup Selector
-see [[Pickups]]
+see [Pickups](Pickups.md)
 - 
 
 #### Tone Knob

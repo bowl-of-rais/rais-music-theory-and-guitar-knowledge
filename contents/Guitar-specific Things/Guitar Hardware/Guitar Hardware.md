@@ -1,3 +1,3 @@
 -----
 
-[[Pickups]]
+[Pickups](Pickups.md)
