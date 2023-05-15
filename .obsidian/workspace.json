@@ -11,24 +11,15 @@
             "id": "2dfc3166e8ef7051",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "253efc1129fd2ed3",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/contents/Chords and Harmonies/Intervals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/contents/Chords and Harmonies/Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/index.md",
+                "file": "notes/contents/Chords and Harmonies/Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/index.md"
+                "file": "notes/contents/Chords and Harmonies/Intervals.md"
               }
             }
           },
@@ -174,8 +165,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "253efc1129fd2ed3",
+  "active": "2dfc3166e8ef7051",
   "lastOpenFiles": [
+    "notes/index.md",
     "notes/contents/Chord Progressions/Chord Progressions.md",
     "notes/contents/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.md",
     "notes/contents/Chord Progressions/Spannungsbogen.md",
@@ -201,7 +193,6 @@
     "notes/contents/Scales/Major Scales.md",
     "notes/contents/Scales/Minor Scales.md",
     "notes/contents/Scales/Pentatonic Scales.md",
-    "notes/contents/Scales/Scales and Keys.md",
     "docs/notes/contents/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.html",
     "docs/notes/contents/Chord Progressions/Interesting Chord Progressions",
     "docs/notes/contents/Chord Progressions/Spannungsbogen.html",

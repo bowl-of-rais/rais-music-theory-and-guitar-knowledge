@@ -6,8 +6,6 @@
 
 [Pentatonic Scales](Pentatonic%20Scales.md)
 
-[Scales and the Circle of Fifths](Scales%20and%20the%20Circle%20of%20Fifths.md)
-
 [Scales on the Guitar](Scales%20on%20the%20Guitar.md)
 
 ----
