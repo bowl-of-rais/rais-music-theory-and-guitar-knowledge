@@ -76,7 +76,7 @@ To figure out what accidentals belong to a specific scale, we can use the (infam
 	- each step counterclockwise adds a b
 	- the two directions run into eachother at the bottom
 - we now can try to find the matching root notes for the major and minor scales
-- as it turns out, neighboring root notes are always the same distance apart - specificially, the [interval]([Intervals](Intervals.md)) of a perfect 5th
+- as it turns out, neighboring root notes are always the same distance apart - specificially, the [interval](../Chords%20and%20Harmonies/Intervals.md) of a perfect 5th
 - this is why this is called the circle of 5ths!
 
 ![](600px-Circle_of_fifths_deluxe_4.svg.png)
