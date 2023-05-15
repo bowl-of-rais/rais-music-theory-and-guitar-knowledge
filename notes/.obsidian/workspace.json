@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "e4d64a8c4bd703f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e107ee5a7c1c2c7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dfc3166e8ef7051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "246c74fed19ffcd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b3d092e8d95d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c35bd1b840a58fe1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bfb27481c2f8c94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "525f0368c1357775",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "cde74b17fd1ee9da",
+    "type": "split",
+    "children": [
+      {
+        "id": "72dd4eb4cee0949a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f3a54d3d4db0e68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e7512adeb29396a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1857b9f1a37df7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04de3672fd15b543",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "643ae9e5770ac38c",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "00f1065e7055fec1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "reference-map:Reference Map": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "2dfc3166e8ef7051",
+  "lastOpenFiles": [
+    "contents/Chord Progressions/Chord Progressions.md",
+    "contents/Chord Progressions/Spannungsbogen.md",
+    "contents/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.md",
+    "contents/Chords and Harmonies/Chords and Harmonies.md",
+    "contents/Chords and Harmonies/Chords.md",
+    "contents/Chords and Harmonies/Intervals.md",
+    "contents/Chords and Harmonies/Terzverwandtschaft + Ersatzakkorde.md",
+    "contents/Chords and Harmonies/The chords of a key.md",
+    "contents/Guitar-specific Things/CAGED.md",
+    "contents/Guitar-specific Things/Guitar Hardware/Guitar Hardware.md",
+    "contents/Guitar-specific Things/Guitar Hardware/Pickups.md",
+    "contents/Guitar-specific Things/Guitar Tones/Basics.md",
+    "contents/Guitar-specific Things/Guitar Tones/Guitar Tone.md",
+    "contents/Guitar-specific Things/Guitar-specific Things.md",
+    "contents/Keywords.md",
+    "contents/Melodies/Melodies.md",
+    "contents/Melodies/Soloing and Improvising.md",
+    "contents/Miscellaneous Resources.md",
+    "contents/Music Genres/Music Genres.md",
+    "contents/Music Language and Notation/Music Language and Notation.md",
+    "contents/Music Language and Notation/Musical Alphabet.md",
+    "contents/Scales/Chromatic Scale.md",
+    "contents/Scales/Major Scales.md",
+    "contents/Scales/Minor Scales.md",
+    "contents/Scales/Pentatonic Scales.md",
+    "contents/Scales/Scales and Keys.md",
+    "docs/notes/index.html",
+    "docs/notes/contents/chord-progressions/interesting-chord-progressions/overview---interesting-chord-progressions.html",
+    "docs/notes/contents/chord-progressions/spannungsbogen.html",
+    "docs/notes/contents/chord-progressions/interesting-chord-progressions",
+    "docs/notes/contents/chord-progressions/chord-progressions.html",
+    "docs/notes/contents/chord-progressions",
+    "docs/notes/contents/chords-and-harmonies/intervals.html",
+    "docs/notes/contents/chords-and-harmonies/the-chords-of-a-key.html",
+    "docs/notes/contents/chords-and-harmonies/terzverwandtschaft-+-ersatzakkorde.html",
+    "docs/notes/contents/chords-and-harmonies/chords.html",
+    "notes/assets/600px-Circle_of_fifths_deluxe_4.svg.png",
+    "assets/600px-Circle_of_fifths_deluxe_4.svg.png"
+  ]
+}
