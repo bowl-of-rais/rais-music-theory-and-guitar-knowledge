@@ -19,8 +19,12 @@
             "id": "253efc1129fd2ed3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/contents/Music Language and Notation/Musical Alphabet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/contents/Music Language and Notation/Musical Alphabet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/contents/Music Language and Notation/Musical Alphabet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/contents/Music Language and Notation/Musical Alphabet.md"
+              }
             }
           },
           {
@@ -168,18 +176,18 @@
   },
   "active": "253efc1129fd2ed3",
   "lastOpenFiles": [
-    "docs/notes/index.html",
-    "docs/notes/contents/chord-progressions/interesting-chord-progressions/overview---interesting-chord-progressions.html",
-    "docs/notes/contents/chord-progressions/spannungsbogen.html",
-    "docs/notes/contents/chord-progressions/interesting-chord-progressions",
-    "docs/notes/contents/chord-progressions/chord-progressions.html",
-    "docs/notes/contents/chord-progressions",
-    "docs/notes/contents/chords-and-harmonies/the-chords-of-a-key.html",
-    "docs/notes/contents/chords-and-harmonies/terzverwandtschaft-+-ersatzakkorde.html",
-    "docs/notes/contents/chords-and-harmonies/intervals.html",
-    "docs/notes/contents/chords-and-harmonies/chords.html",
-    "docs/notes/contents/chords-and-harmonies/chords-and-harmonies.html",
+    "docs/notes/contents/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.html",
+    "docs/notes/contents/Chord Progressions/Interesting Chord Progressions",
+    "docs/notes/contents/Chord Progressions/Spannungsbogen.html",
+    "docs/notes/contents/Chord Progressions/Chord Progressions.html",
+    "docs/notes/contents/Chord Progressions",
     "notes/index.md",
+    "docs/notes/contents/Chords and Harmonies/The chords of a key.html",
+    "docs/notes/contents/Chords and Harmonies/Terzverwandtschaft + Ersatzakkorde.html",
+    "docs/notes/contents/Chords and Harmonies/Intervals.html",
+    "docs/notes/contents/Chords and Harmonies/Chords.html",
+    "docs/notes/contents/Chords and Harmonies/Chords and Harmonies.html",
+    "docs/notes/contents/Chords and Harmonies",
     "notes/contents/Chord Progressions/Chord Progressions.md",
     "notes/contents/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.md",
     "notes/contents/Chord Progressions/Spannungsbogen.md",
