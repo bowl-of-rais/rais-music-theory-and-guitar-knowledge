@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents/Song Analyses/Bohemian Rhapsody.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents/Song Analyses/Bohemian Rhapsody.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contents/Song Analyses/Bohemian Rhapsody.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contents/Song Analyses/Bohemian Rhapsody.md"
+                "file": "index.md"
               }
             }
           },
@@ -182,48 +182,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "reference-map:Reference Map": false
+      "reference-map:Reference Map": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "253efc1129fd2ed3",
   "lastOpenFiles": [
-    "docs/_config.yaml",
-    "contents/Music Genres/Music Genres.md",
-    "contents/Melodies/Melodies.md",
+    "docs/contents/chord-progressions/interesting-chord-progressions/overview---interesting-chord-progressions.html",
+    "docs/contents/chord-progressions/chord-progressions.html",
+    "docs/contents/chord-progressions/spannungsbogen.html",
+    "docs/contents/chord-progressions/interesting-chord-progressions",
+    "docs/contents/chord-progressions",
+    "docs/contents/chords-and-harmonies/the-chords-of-a-key.html",
+    "docs/contents/chords-and-harmonies/terzverwandtschaft-+-ersatzakkorde.html",
+    "docs/contents/chords-and-harmonies/chords.html",
+    "docs/contents/chords-and-harmonies/intervals.html",
+    "docs/contents/chords-and-harmonies/chords-and-harmonies.html",
+    "docs/contents/chords-and-harmonies",
+    "contents/Chord Progressions/Chord Progressions.md",
+    "contents/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.md",
+    "contents/Chord Progressions/Spannungsbogen.md",
+    "contents/Chords and Harmonies/Chords and Harmonies.md",
+    "contents/Chords and Harmonies/Chords.md",
+    "contents/Chords and Harmonies/Intervals.md",
     "contents/Chords and Harmonies/Terzverwandtschaft + Ersatzakkorde.md",
     "contents/Chords and Harmonies/The chords of a key.md",
+    "contents/Guitar-specific Things/CAGED.md",
     "contents/Guitar-specific Things/Guitar Hardware/Guitar Hardware.md",
     "contents/Guitar-specific Things/Guitar Hardware/Pickups.md",
     "contents/Guitar-specific Things/Guitar Tones/Basics.md",
     "contents/Guitar-specific Things/Guitar Tones/Guitar Tone.md",
-    "contents/Guitar-specific Things/CAGED.md",
     "contents/Guitar-specific Things/Guitar-specific Things.md",
-    "contents/Chords and Harmonies/Intervals.md",
-    "contents/Chords and Harmonies/Chords.md",
-    "contents/Chords and Harmonies/Chords and Harmonies.md",
+    "contents/Keywords.md",
+    "contents/Melodies/Melodies.md",
+    "contents/Melodies/Soloing and Improvising.md",
+    "contents/Miscellaneous Resources.md",
+    "contents/Music Genres/Music Genres.md",
     "contents/Music Language and Notation/Music Language and Notation.md",
     "contents/Music Language and Notation/Musical Alphabet.md",
     "contents/Scales/Chromatic Scale.md",
-    "contents/Scales/Scales on the Guitar.md",
-    "contents/Scales/Scales and the Circle of Fifths.md",
-    "contents/Scales/Scales and Keys.md",
+    "contents/Scales/Major Scales.md",
     "contents/Scales/Pentatonic Scales.md",
     "contents/Scales/Minor Scales.md",
-    "contents/Scales/Major Scales.md",
-    "index.md",
-    "docs/contents/Chord Progressions/Chord Progressions.html",
-    "contents/Chord Progressions/Chord Progressions.md",
-    "docs/contents/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.html",
-    "docs/contents/Chord Progressions/Interesting Chord Progressions",
-    "contents/Chord Progressions/Interesting Chord Progressions/Overview - Interesting Chord Progressions.md",
-    "docs/contents/Chord Progressions/Spannungsbogen.html",
-    "docs/contents/Chord Progressions",
-    "docs/contents/Guitar-specific Things/CAGED.html",
-    "docs/contents/Guitar-specific Things/Guitar Tones/Basics.html",
-    "docs/contents/Guitar-specific Things/Guitar Tones/Guitar Tone.html",
-    "docs/contents/Guitar-specific Things/Guitar Tones",
-    "docs/contents/Guitar-specific Things/Guitar Hardware/Guitar Hardware.html",
     "assets/600px-Circle_of_fifths_deluxe_4.svg.png"
   ]
 }
