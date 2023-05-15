@@ -1,3 +1,5 @@
+------
+
 [Major Scales](Major%20Scales.md)
 
 [Minor Scales](Minor%20Scales.md)

@@ -15049,6 +15049,30 @@ PICKR 1.8.2 MIT | https://github.com/Simonwep/pickr
     let cssPath = "../../../styles";
   </script>
 
+  <!-- Graph View Data -->
+  <script>
+    let nodes = {
+      "nodeCount": 29,
+      "linkCount": 31,
+      "radii": [7, 7, 6.626543209876543, 6.626543209876543, 5.638888888888889, 4.913580246913581, 4.913580246913581, 4.913580246913581, 4.913580246913581, 4.913580246913581, 4.913580246913581, 4.913580246913581, 4.913580246913581, 4.913580246913581, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 4.033950617283951, 3],
+      "labels": ["Scales and Keys", "index", "Guitar-specific Things", "Chords and Harmonies", "Chord Progressions", "Musical Alphabet", "Music Language and Notation", "Soloing and Improvising", "Melodies", "Basics", "Guitar Tone", "Pickups", "Guitar Hardware", "Intervals", "Scales on the Guitar", "Pentatonic Scales", "Minor Scales", "Major Scales", "Chromatic Scale", "Music Genres", "Miscellaneous Resources", "Keywords", "CAGED", "The chords of a key", "Terzverwandtschaft + Ersatzakkorde", "Chords", "Spannungsbogen", "Overview - Interesting Chord Progressions", "Bohemian Rhapsody"],
+      "paths": ["notes/contents/scales/scales-and-keys.html", "notes/index.html", "notes/contents/guitar-specific-things/guitar-specific-things.html", "notes/contents/chords-and-harmonies/chords-and-harmonies.html", "notes/contents/chord-progressions/chord-progressions.html", "notes/contents/music-language-and-notation/musical-alphabet.html", "notes/contents/music-language-and-notation/music-language-and-notation.html", "notes/contents/melodies/soloing-and-improvising.html", "notes/contents/melodies/melodies.html", "notes/contents/guitar-specific-things/guitar-tones/basics.html", "notes/contents/guitar-specific-things/guitar-tones/guitar-tone.html", "notes/contents/guitar-specific-things/guitar-hardware/pickups.html", "notes/contents/guitar-specific-things/guitar-hardware/guitar-hardware.html", "notes/contents/chords-and-harmonies/intervals.html", "notes/contents/scales/scales-on-the-guitar.html", "notes/contents/scales/pentatonic-scales.html", "notes/contents/scales/minor-scales.html", "notes/contents/scales/major-scales.html", "notes/contents/scales/chromatic-scale.html", "notes/contents/music-genres/music-genres.html", "notes/contents/miscellaneous-resources.html", "notes/contents/keywords.html", "notes/contents/guitar-specific-things/caged.html", "notes/contents/chords-and-harmonies/the-chords-of-a-key.html", "notes/contents/chords-and-harmonies/terzverwandtschaft-+-ersatzakkorde.html", "notes/contents/chords-and-harmonies/chords.html", "notes/contents/chord-progressions/spannungsbogen.html", "notes/contents/chord-progressions/interesting-chord-progressions/overview---interesting-chord-progressions.html", "notes/contents/song-analyses/bohemian-rhapsody.html"],
+      "linkSources": [1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2, 8, 6, 0, 0, 0, 0, 0, 0, 0, 12, 10, 9],
+      "linkTargets": [6, 0, 3, 4, 8, 2, 19, 20, 21, 26, 27, 13, 25, 23, 24, 12, 10, 22, 7, 7, 5, 17, 16, 18, 15, 14, 5, 13, 11, 9, 11]
+    };
+    let attractionForce = 1;
+    let linkLength = 10;
+    let repulsionForce = 150;
+    let centralForce = 3;
+    let edgePruning = 100;
+  </script>
+
+  <script type="module" src="../../../scripts/graph_view.js"></script>
+
+  <script src="../../../scripts/graph_wasm.js"></script>
+
+  <script src="../../../scripts/tinycolor.js"></script>
+
   <script>
     async function loadDocument(url, pushHistory = true) {
       let response;
@@ -15490,6 +15514,16 @@ PICKR 1.8.2 MIT | https://github.com/Simonwep/pickr
     </div>
     <div id="sidebar" class="sidebar-right">
       <div class="sidebar-content">
+        <h6 style="margin: 1em 1em 1em 12px;">Interactive Graph</h6>
+        <div class="graph-view-placeholder">
+          <div class="graph-view-container">
+            <div class="graph-icon graph-expand" role="button" aria-label="Expand" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-arrow-up-right">
+                <line x1="7" y1="17" x2="17" y2="7"></line>
+                <polyline points="7 7 17 7 17 17"></polyline>
+              </svg></div>
+            <canvas id="graph-canvas" width="512px" height="512px"></canvas>
+          </div>
+        </div>
         <div class="outline-container" data-size="0">
           <div class="outline-header">
             <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button>

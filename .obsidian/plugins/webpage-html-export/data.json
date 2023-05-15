@@ -3,7 +3,7 @@
   "inlineJS": true,
   "inlineImages": true,
   "includePluginCSS": "highlightr-plugin\ntable-editor-obsidian\nobsidian-jtab\nvextab",
-  "makeNamesWebStyle": false,
+  "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
   "addFilenameTitle": true,
   "beautifyHTML": true,
