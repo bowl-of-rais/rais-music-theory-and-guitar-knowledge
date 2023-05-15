@@ -2,7 +2,7 @@
 
 a path through music theory and an attempt to relate it to guitar:
 1. [Music Language and Notation](Music%20Language%20and%20Notation.md)
-2. [Scales and Keys](Scales%20and%20Keys.md)
+2. [Scales and Keys](contents/Scales/Scales%20and%20Keys.md)
 4. [Chords and Harmonies](Chords%20and%20Harmonies.md)
 5. [Chord Progressions](Chord%20Progressions.md)
 6. [Melodies](Melodies.md)
